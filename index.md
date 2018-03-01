@@ -1,4 +1,4 @@
-# Welcome to Promethium!
+# Welcome to Promethiums!
 
 ## Hello again
 
